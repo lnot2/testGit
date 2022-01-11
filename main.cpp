@@ -6,8 +6,6 @@ using namespace std;
 
 int main(int argc, char** argv) {
 
-    cout << "Bonjour à tous" << endl;
-    cout << "au revoir" << endl;
-    cout << "c'est moi" << endl;
+    cout << "Bonjour petit intru quel est le mot de passe ??" << endl;
     return 0;
 }
